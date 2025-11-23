@@ -132,6 +132,11 @@ The frontend will run on http://localhost:5173
 3. *Open in Browser*
 Navigate to http://localhost:5173 and connect your MetaMask wallet.
 
+## Deployed code at address: 0x5ceac6cc6fe538c322771eb3f7168401f3912a3e
+## Deployment tx hash: 0x71e296acd02d8a602685bc9d6f64d70f088b5be912f9298ea5c6dba4c288d0c9
+contract activated and ready onchain with tx hash: 0xc088848bcc8ef6ef3d874e9631d6ef00bce1e14d149527db81d1840649225bcd
+
+
 ## 📖 Usage Guide
 
 ### For Artists
